@@ -22,4 +22,4 @@
 
 - Efeitos no Dom:
   <br>
-  Dataset, modules, modal, Tooltip,
+  Dataset, modules, modal, Tooltip, Menu dropdown, Clickoutside,
